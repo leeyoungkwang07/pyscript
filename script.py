@@ -25,7 +25,7 @@ colors = ["white", "black"]
 background(colors)
 
 # 이름과 설명, 버튼에 들어갈 글 설정
-write("names", "이영광")
+write("name", "이영광")
 write("description", "매천중3학년")
 write("button", "인스타")
 
